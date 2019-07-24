@@ -34,13 +34,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.21cn.cloud189</string>
+				<string>com.pixelcyber.shu</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.1.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>天翼云存储</string>
+				<string>Shu</string>
 			</dict>
 		</dict>
 	</array>
